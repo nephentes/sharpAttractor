@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpTtractor", "SharpTtractor\SharpTtractor.csproj", "{0A5AF574-3992-466A-AC83-2ECB810A2D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A5AF574-3992-466A-AC83-2ECB810A2D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5AF574-3992-466A-AC83-2ECB810A2D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5AF574-3992-466A-AC83-2ECB810A2D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5AF574-3992-466A-AC83-2ECB810A2D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E639AE5-9686-4D76-9A81-5EFC9F8A749E}
+	EndGlobalSection
+EndGlobal
